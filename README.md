@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Quyen!</h1>
-<h3 align="center">An enthusiastic full-stack developer hailing from the Lone Star State!</h3>
 
 <p align="left">
 </p>
