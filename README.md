@@ -69,4 +69,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quynguy&show_icons=true&locale=en&layout=compact" alt="quynguy" /></p>
 
+<br> <br> <br>
+<br> <br> <br>
+<div align="center">
+<p> Currently delving into jQuery, Vue.js, Redux, Vuex, and testing frameworks (Jest and Cypress.) </p>
+
+
 
