@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quyen! I'm from Texas, USA!</h2>
-<h2 align="center">View my portfolio <a href="https://magenta-seahorse-02a8a8.netlify.app/">here</a>.</h2>
+<h2 align="center">View my portfolio <a href="https://courageous-druid-d5bed6.netlify.app/">here</a>.</h2>
 
 <img align="right" height="500px" src="https://tinypic.host/images/2024/02/02/quyen.png" alt="quyen.png" border="0" />
 
