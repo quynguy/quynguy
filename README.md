@@ -55,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nquyenle/" target="_blank">
@@ -63,16 +62,12 @@
   </a>
 </div>
 
-###
-
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quynguy&show_icons=true&locale=en&layout=compact" alt="quynguy" /></p>
-
-<br> <br> <br>
-<br> <br> <br>
 <div align="center">
 <p> Currently delving into jQuery, Vue.js, Redux, Vuex, and testing frameworks (Jest and Cypress.) </p>
+<p> Oh ..... and eating a cookie or two. </p>
 
-
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quynguy&show_icons=true&locale=en&layout=compact" alt="quynguy" />
 
