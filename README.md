@@ -4,6 +4,11 @@
 ###
 
 <div align="left">
+<p> Currently delving into jQuery, Vue.js, Redux, Vuex, and testing frameworks (Jest and Cypress.) </p>
+<p> Oh ..... and eating a cookie or two. </p>
+<br>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -62,12 +67,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-<p> Currently delving into jQuery, Vue.js, Redux, Vuex, and testing frameworks (Jest and Cypress.) </p>
-<p> Oh ..... and eating a cookie or two. </p>
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quynguy&show_icons=true&locale=en&layout=compact" alt="quynguy" />
